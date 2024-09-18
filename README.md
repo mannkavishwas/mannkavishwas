@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Vishwas and ECE student. I'm exploring and learning various technolgies
 
 <!--
 **mannkavishwas/mannkavishwas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
